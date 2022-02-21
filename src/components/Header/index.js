@@ -35,7 +35,7 @@ export const Header = ({ scroll }) => {
                 </List>
               ))}
               <List>
-                <Link as="/Register" href="/Register" passHref>
+                <Link as="/register" href="/register" passHref>
                   <RegisterAnchor passHef>REGISTER</RegisterAnchor>
                 </Link>
               </List>
