@@ -1,6 +1,6 @@
-<p align="center">	
-  Healthy Food 
-</p>
+<h1 align="center">
+  Healthy Food
+</h1>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
