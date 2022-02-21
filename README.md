@@ -51,8 +51,6 @@ Esse projeto foi desenvolvido com a seguinte tecnologia e suas dependencias:
 
 - NextJS
     - styled-components
-    - next-document
-    - next-link
     - axios
     - react
     - react-slick
