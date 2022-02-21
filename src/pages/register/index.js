@@ -19,7 +19,7 @@ import {
   Button,
   Div,
   Anchor
-} from "../../styles/PageRegister";
+} from "../../styles/StylePageRegister";
 
 const Register = () => {
   const initialState = {

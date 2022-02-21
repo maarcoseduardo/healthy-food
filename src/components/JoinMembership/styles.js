@@ -12,10 +12,14 @@ export const Content = styled.div`
 
   @media (max-width: 900px) {
     background: rgba(255, 255, 255, 0.2);
-    width: 90%;
+    width: 60%;
     margin: 0 auto;
     backdrop-filter: blur(5px);
     border-radius: 0.5rem;
+  }
+
+  @media (max-width: 500px){
+    width:90%;
   }
 `;
 
