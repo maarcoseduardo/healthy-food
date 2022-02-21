@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import Image from "next/image";
 
 export const Container = styled.div`
   background-color: var(--green-200);
