@@ -13,7 +13,7 @@ export const CardImage = styled.img`
 
 export const CardDescription = styled.div`
   text-align: left;
-  padding: 1.5rem;
+  padding: 1rem;
 
   @media (min-width: 2000px) {
     text-align: left;
