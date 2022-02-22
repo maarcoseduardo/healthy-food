@@ -26,7 +26,7 @@
 
 ## 💻 Projeto
 
-**Healthy Food é um projeto para um teste técnico de uma empresa. No qual devemos desenvolver todo front-end responsivo e consumir uma Api que retorna dados de endereços referente a um CEP digitado no formulário. .**
+**Healthy Food é um projeto para um teste técnico de uma empresa. No qual devemos desenvolver todo front-end responsivo e consumir uma Api que retorna dados de endereços referente a um CEP digitado no formulário. **
 
 ## Desktop
 ![https://github.com/maarcoseduardo/healthy-food/blob/master/demo/healthy-food-desktop.gif](https://github.com/maarcoseduardo/healthy-food/blob/master/demo/healthy-food-desktop.gif)
